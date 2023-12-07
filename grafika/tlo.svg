@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3280" height="1558.633" viewBox="0 0 3280 1558.633">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#321450"/>
+      <stop offset="0.724" stop-color="#190a28"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#321450"/>
+      <stop offset="0.419" stop-color="#321450"/>
+      <stop offset="1" stop-color="#190a28"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_26085" data-name="Path 26085" d="M1132.236,1558.632H0V0H1638.666Z" transform="translate(-503.209)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0.519" y1="0.53" x2="1.087" y2="0.719" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#321450"/>
+      <stop offset="1" stop-color="#641eaa"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#190a28" stop-opacity="0"/>
+      <stop offset="1" stop-color="#190a28"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_26092" data-name="Path 26092" d="M2630.61,1556.681H784.544L1290.34,0H2630.61Z" transform="translate(-7561.802 -19871)" fill="none" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-7" x1="0" x2="1" xlink:href="#linear-gradient-5"/>
+  </defs>
+  <g id="Group_11283" data-name="Group 11283" transform="translate(8206 19871)">
+    <rect id="Rectangle_6109" data-name="Rectangle 6109" width="3280" height="1557" transform="translate(-8206 -19871)" fill="url(#linear-gradient-3)"/>
+    <g id="Group_11276" data-name="Group 11276" transform="translate(-7407 -19871)" clip-path="url(#clip-path)">
+      <path id="Path_26084" data-name="Path 26084" d="M-20.209-1315.119,1939.21,108.518V276.743L-20.209-1146.859Zm0,433.057L1939.21,541.54V373.315L-20.209-1050.322Zm0-529.594L1939.21,11.946V-156.279L-20.209-1579.916Zm0,794.391L1939.21,806.337V638.112L-20.209-785.525Zm0,264.8,1959.419,1423.6V902.909L-20.209-520.728Zm0,264.8,1959.419,1423.6V1167.706L-20.209-255.931Zm0,264.8,1959.419,1423.6V1432.5L-20.209,8.866v168.26Zm0,264.8,1959.419,1423.6V1697.3L-20.209,273.663Zm0,264.8,1959.419,1423.6V1962.1L-20.209,538.46Zm0,264.8,1959.419,1423.6V2226.894L-20.209,803.257Zm0,264.8,1959.419,1423.6V2491.691L-20.209,1068.054Z" transform="translate(-483)" fill="url(#linear-gradient-4)"/>
+    </g>
+    <rect id="Rectangle_6124" data-name="Rectangle 6124" width="1108" height="1544" transform="translate(-7910 -19871)" fill="url(#linear-gradient-5)"/>
+    <g id="Mask_Group_978" data-name="Mask Group 978" clip-path="url(#clip-path-2)">
+      <path id="Union_264" data-name="Union 264" d="M1586.951,1874,494.1,1080h-.538L0,721.4V553.144L331.5,794h.539L1818.5,1874Zm-364.461,0L129.642,1080H129.1L0,986.2V817.549L1454.044,1874Zm-364.462,0L0,1250.607v-168.26L1089.59,1874Zm-364.461,0L0,1515.4v-168.26L725.138,1874ZM129.1,1874,0,1780.2v-168.26L360.685,1874Zm729.462-794h-.539L0,456.607V288.346L695.955,794h.539L1920,1682.951v168.225Zm364.461,0h-.538L0,191.81V23.549L1060.408,794h.539L1920,1418.154V1586.38Zm364.462,0h-.538L100.459,0H332.041l1092.82,794h.538L1920,1153.357v168.225ZM464.921,0H696.494L1789.313,794h.539L1920,888.56v168.617ZM829.382,0h231.565L1920,624.155V792.38Zm364.461,0H1425.4L1920,359.357V527.583Zm364.462,0h231.547L1920,94.56V262.786Z" transform="translate(-6797 -19871)" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="Rectangle_6134" data-name="Rectangle 6134" width="1071" height="3280" transform="translate(-4926 -19385) rotate(90)" fill="url(#linear-gradient-7)"/>
+    <rect id="Rectangle_6135" data-name="Rectangle 6135" width="296" height="1544" transform="translate(-8206 -19871)" fill="#190a28"/>
+    <rect id="Rectangle_6123" data-name="Rectangle 6123" width="1566" height="1557" transform="translate(-6492 -19871)" fill="url(#linear-gradient-7)"/>
+  </g>
+</svg>
